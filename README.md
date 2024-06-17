@@ -1,4 +1,4 @@
-# Module-18
+ Module-18
 Open the provided pychain.py file, which you’ll use to complete the steps for this Challenge. Notice that the PyChain ledger that you built throughout this module already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
 The steps for this Challenge are divided into the following sections:
 Create a Record Data Class
@@ -38,16 +38,12 @@ Verify the block contents and hashes in the Streamlit drop-down menu. Take a scr
 Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the README.md file for your Challenge repository.
 
 
+
+---
 ## Streamlit PyChain Application Screenshot
 
 ![alt=""](Images/PyChain_Streamlit_Screenshot.png)
 
 <span style="color:white;font-weight:100;font-size:15px">
     <b>
-
-
 Sources- ChatGpt, Xpert Learning Assistant
-
-
-
-
