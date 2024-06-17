@@ -42,6 +42,8 @@ Test the blockchain validation process by using the web interface. Take a screen
 
 ![alt=""](Images/PyChain_Streamlit_Screenshot.png)
 
+<span style="color:white;font-weight:100;font-size:15px">
+    <b>
 
 
 Sources- ChatGpt, Xpert Learning Assistant
